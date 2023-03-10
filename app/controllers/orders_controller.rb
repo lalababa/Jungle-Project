@@ -2,6 +2,8 @@ class OrdersController < ApplicationController
 
   def show
     @order = Order.find(params[:id])
+    puts "___*********8888888*******____"
+    puts @order.total_cents
   end
 
   def create
