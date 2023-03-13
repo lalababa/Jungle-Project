@@ -1,5 +1,7 @@
 class OrdersController < ApplicationController
 
+  before_action :authorize
+
   def show
     @order = Order.find(params[:id])
     puts "___*********8888888*******____"
