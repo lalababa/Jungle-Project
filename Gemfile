@@ -57,6 +57,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 5.1'
   gem 'net-smtp', require: false
   gem 'dotenv-rails'
+  gem "cypress-rails"
+  gem 'database_cleaner-active_record'
 
 end
 
