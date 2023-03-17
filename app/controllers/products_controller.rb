@@ -1,6 +1,6 @@
 class ProductsController < ApplicationController
 
-  before_action :authorize
+  # before_action :authorize
 
   def index
     @products = Product.all.order(created_at: :desc)
