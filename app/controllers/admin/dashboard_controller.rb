@@ -1,4 +1,6 @@
 class Admin::DashboardController < ApplicationController
+  http_basic_authenticate_with name: "sample", password: "sample"
+
   def show
     @product_count = Product.count
 
