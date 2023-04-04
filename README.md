@@ -1,4 +1,5 @@
-demo video (click photo to see demo video in youtube)
+demo video 
+(click photo to see demo video in youtube)
 [![Jungle Demo](./app/assets/images/jungle_photo.png)](http://www.youtube.com/watch?v=f3-NerIYQSE "Jungle Demo")
 
 
