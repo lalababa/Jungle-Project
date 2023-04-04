@@ -1,6 +1,6 @@
-demo video link:
+demo video (click photo to see demo video in youtube)
 [![Jungle Demo](./app/assets/images/jungle_photo.png)](http://www.youtube.com/watch?v=f3-NerIYQSE "Jungle Demo")
-![Jungle Demo Photo](./app/assets/images/jungle_photo.png)
+
 
 
 
