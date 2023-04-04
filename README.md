@@ -1,5 +1,5 @@
 demo video
-[![jungle demo](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=f3-NerIYQSE "Jungle Demo")
+[![jungle demo]](http://www.youtube.com/watch?v=f3-NerIYQSE "Jungle Demo")
 
 # Jungle
 
